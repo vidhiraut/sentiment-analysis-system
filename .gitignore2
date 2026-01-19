@@ -1,0 +1,13 @@
+# Ignore trained models
+*.pkl
+
+# Ignore datasets
+data/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+.env
